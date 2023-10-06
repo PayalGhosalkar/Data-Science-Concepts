@@ -1,0 +1,11 @@
+1) Delivery_time -> Predict delivery time using sorting time 
+
+ANS : Attached file "Question No 1_simple Linear Regression.ipynb".
+
+2) Salary_hike -> Build a prediction model for Salary_hike
+
+ANS: Attached file "Question No 2_simple Linear Regression.ipynb".
+
+------------------------------------------------------------
+
+Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
