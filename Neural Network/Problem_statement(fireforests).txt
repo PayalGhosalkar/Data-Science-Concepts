@@ -1,0 +1,4 @@
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
+
+
+ANS : Attached File : ForestFires_Data_Neural Network.ipynb
